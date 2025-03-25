@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(235, 167, 229);
+}
+
+h1{
+    color: rgb(109, 24, 134);
+    text-decoration-line: overline;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(108, 45, 226);
+}
